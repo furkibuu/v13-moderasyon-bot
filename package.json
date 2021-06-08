@@ -4,8 +4,15 @@
   "description": "Bot İşte Amk ",
   "main": "sanctus.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node sanctus.js"
   },
   "author": "Furkan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "chalk": "^4.1.1",
+    "moment-duration-format": "^2.3.2"
+  }
 }
