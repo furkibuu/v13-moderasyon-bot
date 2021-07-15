@@ -1,5 +1,22 @@
 {
-"önlek":"PREFİXİNİZ",
-"token":"TOKENİNİZ"
+  
+  "prefix":"!",
+  "botowner":"Sahip İd" ,
+  
+  
+  "muteci":"Muteci İd",
+  "muteli":"Muteli İd",
+  "muteliisim":"Mute Atılacak İsim",
+  
+  
+  
+  "erkeküye":"Erkek Üye İd",
+  "kızüye":"Kız Üye İd",
+  "kayıtsız":"kayıtsız role id",
+  
+  
+  
+  "sesli":"sesli kanal id"
+  
+  
 }
-
