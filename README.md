@@ -1,4 +1,4 @@
-# BOS-ALTYAP-
-BOŞ ALT YAPI 
-GİF SUNUCUSUNA GELMEYİE UNUTMAYIN :D
-https://discord.gg/J78YzvK5AW
+#Sanctus Code
+
+
+Moderasyon AltYapısı :D
